@@ -1,4 +1,8 @@
 # a deterministic compartmental model tracking an individual's blood alcohol concentration (BAC) over time 
+import math
+import numpy as np
+import matplotlib.pyplot as plt
+
 # define baseline parameters
 BAC = 0.05         # reference BAC level to include on graph (g/dL)
 lag = 30           # lag between the time when alcohol is consumed and when absorption begins (min)
