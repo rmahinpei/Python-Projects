@@ -1,5 +1,5 @@
 # a Python implementation of the deterministic model of weight loss proposed by Diana M. Thomas et al.
-# paper containing specific details on the model can be found at https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2764961/
+# Thomas' paper containing specific details on the model can be found at https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2764961/
 
 import numpy as np
 import math
