@@ -1,4 +1,6 @@
 # a deterministic compartmental model tracking an individual's blood alcohol concentration (BAC) over time 
+# contributions: Stephanie Lapadat proposed the pathway of alcohol within the model while Romina Mahinpei implemented the model using Python
+
 import math
 import numpy as np
 import matplotlib.pyplot as plt
