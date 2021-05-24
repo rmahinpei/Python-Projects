@@ -1,3 +1,7 @@
+# OnTrack is an interactive Python program that allows the user to keep track of their food consumption (option 1), physical activity (option 2), and water intake (option 3)
+# the user can also check their logs throughout the day (option 4) and finally calculate their total at the end of the day (option 5)
+# to learn more about the program, feel free to watch this demo video: https://youtu.be/ySRz24RFVrE
+
 def main():
     # initialize arrays and lists to store values that get inputted by user
     food = {}
